@@ -119,3 +119,7 @@
     flex-direction: column;
   }
 }
+
+.kermidoo {
+  cursor: pointer;
+}
